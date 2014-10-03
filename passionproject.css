@@ -1,3 +1,23 @@
-body{
-	
+
+body {
+    color: blue;
+    background-color: black
+}
+
+p {
+	text-align: center;
+    color: pink;
+}
+
+h2 {
+    color: rgb(255,0,0);
+}
+
+
+.fifty{
+    display: inline-block;
+}
+
+.ol{
+	display: inline;
 }
