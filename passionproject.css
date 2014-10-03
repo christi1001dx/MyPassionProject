@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+
 
 body {
-    background-color: black
+    background-color: #FF9999
 }
 
 p {
@@ -9,9 +9,14 @@ p {
     color: pink;
 }
 
+.h1{
+	color: green
+}
+
 .fifty{
     display: inline-block;
 }
 
-.ol{
+.li{
 	display: inline;
+}
