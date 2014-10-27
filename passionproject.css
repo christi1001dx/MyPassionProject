@@ -1,22 +1,32 @@
 
 
 body {
-    background-color: #FF9999
+    background-color:#9999CC;	
+	font-family: 'Lato', sans-serif;
 }
 
 p {
 	text-align: center;
-    color: pink;
+    color:#3333CC;
+    font-family: 'Lato', serif;
+    text-align: center;
 }
 
 .h1{
 	color: green
 }
 
-.fifty{
-    display: inline-block;
 }
-
-.li{
+.ol{
 	display: inline;
 }
+
+#pictures{
+	text-align: center;
+	margin: 0 auto;
+}
+
+.pinktext{
+	color: red;
+}
+
